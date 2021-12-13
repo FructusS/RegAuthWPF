@@ -1,0 +1,324 @@
+C:\Users\ClassUser\source\repos\RegAndAuth\RegAndAuth\bin\Debug\RegAndAuth.exe.config
+C:\Users\ClassUser\source\repos\RegAndAuth\RegAndAuth\bin\Debug\RegAndAuth.exe
+C:\Users\ClassUser\source\repos\RegAndAuth\RegAndAuth\bin\Debug\RegAndAuth.pdb
+C:\Users\ClassUser\source\repos\RegAndAuth\RegAndAuth\obj\Debug\RegAndAuth.csproj.AssemblyReference.cache
+C:\Users\ClassUser\source\repos\RegAndAuth\RegAndAuth\obj\Debug\MainWindow.g.cs
+C:\Users\ClassUser\source\repos\RegAndAuth\RegAndAuth\obj\Debug\Registration.g.cs
+C:\Users\ClassUser\source\repos\RegAndAuth\RegAndAuth\obj\Debug\App.g.cs
+C:\Users\ClassUser\source\repos\RegAndAuth\RegAndAuth\obj\Debug\RegAndAuth_MarkupCompile.cache
+C:\Users\ClassUser\source\repos\RegAndAuth\RegAndAuth\obj\Debug\RegAndAuth_MarkupCompile.lref
+C:\Users\ClassUser\source\repos\RegAndAuth\RegAndAuth\obj\Debug\MainWindow.baml
+C:\Users\ClassUser\source\repos\RegAndAuth\RegAndAuth\obj\Debug\Registration.baml
+C:\Users\ClassUser\source\repos\RegAndAuth\RegAndAuth\obj\Debug\RegAndAuth.g.resources
+C:\Users\ClassUser\source\repos\RegAndAuth\RegAndAuth\obj\Debug\RegAndAuth.Properties.Resources.resources
+C:\Users\ClassUser\source\repos\RegAndAuth\RegAndAuth\obj\Debug\RegAndAuth.csproj.GenerateResource.cache
+C:\Users\ClassUser\source\repos\RegAndAuth\RegAndAuth\obj\Debug\RegAndAuth.csproj.CoreCompileInputs.cache
+C:\Users\ClassUser\source\repos\RegAndAuth\RegAndAuth\obj\Debug\RegAndAuth.exe
+C:\Users\ClassUser\source\repos\RegAndAuth\RegAndAuth\obj\Debug\RegAndAuth.pdb
+C:\Users\ClassUser\source\repos\RegAndAuth\RegAndAuth\bin\Debug\EntityFramework.dll
+C:\Users\ClassUser\source\repos\RegAndAuth\RegAndAuth\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ClassUser\source\repos\RegAndAuth\RegAndAuth\bin\Debug\EntityFramework.xml
+C:\Users\ClassUser\source\repos\RegAndAuth\RegAndAuth\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ClassUser\source\repos\RegAndAuth\RegAndAuth\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\ClassUser\source\repos\RegAndAuth\RegAndAuth\obj\Debug\RegAndAuth_Content.g.cs
+C:\Users\ClassUser\source\repos\RegAndAuth\RegAndAuth\obj\Debug\RegAndAuth.csproj.CopyComplete
+C:\Users\ClassUser\source\repos\RegAndAuth\RegAndAuth\obj\Debug\PersonalArea.g.cs
+C:\Users\ClassUser\source\repos\RegAndAuth\RegAndAuth\obj\Debug\PersonalArea.baml
+C:\Users\ClassUser\Desktop\RegAndAuth\RegAndAuth\bin\Debug\RegAndAuth.exe.config
+C:\Users\ClassUser\Desktop\RegAndAuth\RegAndAuth\bin\Debug\RegAndAuth.exe
+C:\Users\ClassUser\Desktop\RegAndAuth\RegAndAuth\bin\Debug\RegAndAuth.pdb
+C:\Users\ClassUser\Desktop\RegAndAuth\RegAndAuth\bin\Debug\EntityFramework.dll
+C:\Users\ClassUser\Desktop\RegAndAuth\RegAndAuth\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ClassUser\Desktop\RegAndAuth\RegAndAuth\bin\Debug\EntityFramework.xml
+C:\Users\ClassUser\Desktop\RegAndAuth\RegAndAuth\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ClassUser\Desktop\RegAndAuth\RegAndAuth\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\ClassUser\Desktop\RegAndAuth\RegAndAuth\obj\Debug\RegAndAuth.csproj.AssemblyReference.cache
+C:\Users\ClassUser\Desktop\RegAndAuth\RegAndAuth\obj\Debug\MainWindow.g.cs
+C:\Users\ClassUser\Desktop\RegAndAuth\RegAndAuth\obj\Debug\PersonalArea.g.cs
+C:\Users\ClassUser\Desktop\RegAndAuth\RegAndAuth\obj\Debug\Registration.g.cs
+C:\Users\ClassUser\Desktop\RegAndAuth\RegAndAuth\obj\Debug\App.g.cs
+C:\Users\ClassUser\Desktop\RegAndAuth\RegAndAuth\obj\Debug\RegAndAuth_Content.g.cs
+C:\Users\ClassUser\Desktop\RegAndAuth\RegAndAuth\obj\Debug\RegAndAuth_MarkupCompile.cache
+C:\Users\ClassUser\Desktop\RegAndAuth\RegAndAuth\obj\Debug\RegAndAuth_MarkupCompile.lref
+C:\Users\ClassUser\Desktop\RegAndAuth\RegAndAuth\obj\Debug\MainWindow.baml
+C:\Users\ClassUser\Desktop\RegAndAuth\RegAndAuth\obj\Debug\PersonalArea.baml
+C:\Users\ClassUser\Desktop\RegAndAuth\RegAndAuth\obj\Debug\Registration.baml
+C:\Users\ClassUser\Desktop\RegAndAuth\RegAndAuth\obj\Debug\RegAndAuth.g.resources
+C:\Users\ClassUser\Desktop\RegAndAuth\RegAndAuth\obj\Debug\RegAndAuth.Properties.Resources.resources
+C:\Users\ClassUser\Desktop\RegAndAuth\RegAndAuth\obj\Debug\RegAndAuth.csproj.GenerateResource.cache
+C:\Users\ClassUser\Desktop\RegAndAuth\RegAndAuth\obj\Debug\RegAndAuth.csproj.CoreCompileInputs.cache
+C:\Users\ClassUser\Desktop\RegAndAuth\RegAndAuth\obj\Debug\RegAndAuth.csproj.CopyComplete
+C:\Users\ClassUser\Desktop\RegAndAuth\RegAndAuth\obj\Debug\RegAndAuth.exe
+C:\Users\ClassUser\Desktop\RegAndAuth\RegAndAuth\obj\Debug\RegAndAuth.pdb
+C:\Users\ClassUser\Desktop\wpf\RegAndAuth\RegAndAuth\bin\Debug\RegAndAuth.exe.config
+C:\Users\ClassUser\Desktop\wpf\RegAndAuth\RegAndAuth\bin\Debug\RegAndAuth.exe
+C:\Users\ClassUser\Desktop\wpf\RegAndAuth\RegAndAuth\bin\Debug\RegAndAuth.pdb
+C:\Users\ClassUser\Desktop\wpf\RegAndAuth\RegAndAuth\bin\Debug\EntityFramework.dll
+C:\Users\ClassUser\Desktop\wpf\RegAndAuth\RegAndAuth\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ClassUser\Desktop\wpf\RegAndAuth\RegAndAuth\bin\Debug\EntityFramework.xml
+C:\Users\ClassUser\Desktop\wpf\RegAndAuth\RegAndAuth\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ClassUser\Desktop\wpf\RegAndAuth\RegAndAuth\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\ClassUser\Desktop\wpf\RegAndAuth\RegAndAuth\obj\Debug\RegAndAuth.csproj.AssemblyReference.cache
+C:\Users\ClassUser\Desktop\wpf\RegAndAuth\RegAndAuth\obj\Debug\MainWindow.g.cs
+C:\Users\ClassUser\Desktop\wpf\RegAndAuth\RegAndAuth\obj\Debug\PersonalArea.g.cs
+C:\Users\ClassUser\Desktop\wpf\RegAndAuth\RegAndAuth\obj\Debug\Registration.g.cs
+C:\Users\ClassUser\Desktop\wpf\RegAndAuth\RegAndAuth\obj\Debug\App.g.cs
+C:\Users\ClassUser\Desktop\wpf\RegAndAuth\RegAndAuth\obj\Debug\RegAndAuth_Content.g.cs
+C:\Users\ClassUser\Desktop\wpf\RegAndAuth\RegAndAuth\obj\Debug\RegAndAuth_MarkupCompile.cache
+C:\Users\ClassUser\Desktop\wpf\RegAndAuth\RegAndAuth\obj\Debug\RegAndAuth_MarkupCompile.lref
+C:\Users\ClassUser\Desktop\wpf\RegAndAuth\RegAndAuth\obj\Debug\MainWindow.baml
+C:\Users\ClassUser\Desktop\wpf\RegAndAuth\RegAndAuth\obj\Debug\PersonalArea.baml
+C:\Users\ClassUser\Desktop\wpf\RegAndAuth\RegAndAuth\obj\Debug\Registration.baml
+C:\Users\ClassUser\Desktop\wpf\RegAndAuth\RegAndAuth\obj\Debug\RegAndAuth.g.resources
+C:\Users\ClassUser\Desktop\wpf\RegAndAuth\RegAndAuth\obj\Debug\RegAndAuth.Properties.Resources.resources
+C:\Users\ClassUser\Desktop\wpf\RegAndAuth\RegAndAuth\obj\Debug\RegAndAuth.csproj.GenerateResource.cache
+C:\Users\ClassUser\Desktop\wpf\RegAndAuth\RegAndAuth\obj\Debug\RegAndAuth.csproj.CoreCompileInputs.cache
+C:\Users\ClassUser\Desktop\wpf\RegAndAuth\RegAndAuth\obj\Debug\RegAndAuth.csproj.CopyComplete
+C:\Users\ClassUser\Desktop\wpf\RegAndAuth\RegAndAuth\obj\Debug\RegAndAuth.exe
+C:\Users\ClassUser\Desktop\wpf\RegAndAuth\RegAndAuth\obj\Debug\RegAndAuth.pdb
+G:\RegAndAuth\RegAndAuth\obj\Debug\RegAndAuth.csproj.AssemblyReference.cache
+G:\RegAndAuth\RegAndAuth\obj\Debug\MainWindow.g.cs
+G:\RegAndAuth\RegAndAuth\obj\Debug\PersonalArea.g.cs
+G:\RegAndAuth\RegAndAuth\obj\Debug\Registration.g.cs
+G:\RegAndAuth\RegAndAuth\obj\Debug\App.g.cs
+G:\RegAndAuth\RegAndAuth\obj\Debug\RegAndAuth_Content.g.cs
+G:\RegAndAuth\RegAndAuth\obj\Debug\RegAndAuth_MarkupCompile.cache
+G:\RegAndAuth\RegAndAuth\obj\Debug\RegAndAuth_MarkupCompile.lref
+G:\RegAndAuth\RegAndAuth\obj\Debug\RegAndAuth.exe
+G:\RegAndAuth\RegAndAuth\obj\Debug\RegAndAuth.pdb
+G:\RegAndAuth\RegAndAuth\bin\Debug\RegAndAuth.exe.config
+G:\RegAndAuth\RegAndAuth\bin\Debug\RegAndAuth.exe
+G:\RegAndAuth\RegAndAuth\bin\Debug\RegAndAuth.pdb
+G:\RegAndAuth\RegAndAuth\bin\Debug\EntityFramework.dll
+G:\RegAndAuth\RegAndAuth\bin\Debug\EntityFramework.SqlServer.dll
+G:\RegAndAuth\RegAndAuth\bin\Debug\EntityFramework.xml
+G:\RegAndAuth\RegAndAuth\bin\Debug\EntityFramework.SqlServer.xml
+G:\RegAndAuth\RegAndAuth\bin\Debug\ru\EntityFramework.resources.dll
+G:\RegAndAuth\RegAndAuth\obj\Debug\MainWindow.baml
+G:\RegAndAuth\RegAndAuth\obj\Debug\PersonalArea.baml
+G:\RegAndAuth\RegAndAuth\obj\Debug\Registration.baml
+G:\RegAndAuth\RegAndAuth\obj\Debug\RegAndAuth.g.resources
+G:\RegAndAuth\RegAndAuth\obj\Debug\RegAndAuth.Properties.Resources.resources
+G:\RegAndAuth\RegAndAuth\obj\Debug\RegAndAuth.csproj.GenerateResource.cache
+G:\RegAndAuth\RegAndAuth\obj\Debug\RegAndAuth.csproj.CoreCompileInputs.cache
+G:\RegAndAuth\RegAndAuth\obj\Debug\RegAndAuth.csproj.CopyComplete
+E:\RegAndAuth\RegAndAuth\bin\Debug\RegAndAuth.exe.config
+E:\RegAndAuth\RegAndAuth\bin\Debug\RegAndAuth.exe
+E:\RegAndAuth\RegAndAuth\bin\Debug\RegAndAuth.pdb
+E:\RegAndAuth\RegAndAuth\bin\Debug\EntityFramework.dll
+E:\RegAndAuth\RegAndAuth\bin\Debug\EntityFramework.SqlServer.dll
+E:\RegAndAuth\RegAndAuth\bin\Debug\EntityFramework.xml
+E:\RegAndAuth\RegAndAuth\bin\Debug\EntityFramework.SqlServer.xml
+E:\RegAndAuth\RegAndAuth\bin\Debug\ru\EntityFramework.resources.dll
+E:\RegAndAuth\RegAndAuth\obj\Debug\RegAndAuth.csprojAssemblyReference.cache
+E:\RegAndAuth\RegAndAuth\obj\Debug\MainWindow.g.cs
+E:\RegAndAuth\RegAndAuth\obj\Debug\PersonalArea.g.cs
+E:\RegAndAuth\RegAndAuth\obj\Debug\Registration.g.cs
+E:\RegAndAuth\RegAndAuth\obj\Debug\App.g.cs
+E:\RegAndAuth\RegAndAuth\obj\Debug\RegAndAuth_Content.g.cs
+E:\RegAndAuth\RegAndAuth\obj\Debug\RegAndAuth_MarkupCompile.cache
+E:\RegAndAuth\RegAndAuth\obj\Debug\RegAndAuth_MarkupCompile.lref
+E:\RegAndAuth\RegAndAuth\obj\Debug\MainWindow.baml
+E:\RegAndAuth\RegAndAuth\obj\Debug\PersonalArea.baml
+E:\RegAndAuth\RegAndAuth\obj\Debug\Registration.baml
+E:\RegAndAuth\RegAndAuth\obj\Debug\RegAndAuth.g.resources
+E:\RegAndAuth\RegAndAuth\obj\Debug\RegAndAuth.Properties.Resources.resources
+E:\RegAndAuth\RegAndAuth\obj\Debug\RegAndAuth.csproj.GenerateResource.cache
+E:\RegAndAuth\RegAndAuth\obj\Debug\RegAndAuth.csproj.CoreCompileInputs.cache
+E:\RegAndAuth\RegAndAuth\obj\Debug\RegAndAuth.csproj.CopyComplete
+E:\RegAndAuth\RegAndAuth\obj\Debug\RegAndAuth.exe
+E:\RegAndAuth\RegAndAuth\obj\Debug\RegAndAuth.pdb
+C:\Users\ПК\Desktop\RegAndAuth\RegAndAuth\bin\Debug\RegAndAuth.exe.config
+C:\Users\ПК\Desktop\RegAndAuth\RegAndAuth\bin\Debug\RegAndAuth.exe
+C:\Users\ПК\Desktop\RegAndAuth\RegAndAuth\bin\Debug\RegAndAuth.pdb
+C:\Users\ПК\Desktop\RegAndAuth\RegAndAuth\bin\Debug\EntityFramework.dll
+C:\Users\ПК\Desktop\RegAndAuth\RegAndAuth\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ПК\Desktop\RegAndAuth\RegAndAuth\bin\Debug\EntityFramework.xml
+C:\Users\ПК\Desktop\RegAndAuth\RegAndAuth\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ПК\Desktop\RegAndAuth\RegAndAuth\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\ПК\Desktop\RegAndAuth\RegAndAuth\obj\Debug\RegAndAuth.csprojAssemblyReference.cache
+C:\Users\ПК\Desktop\RegAndAuth\RegAndAuth\obj\Debug\MainWindow.g.cs
+C:\Users\ПК\Desktop\RegAndAuth\RegAndAuth\obj\Debug\PersonalArea.g.cs
+C:\Users\ПК\Desktop\RegAndAuth\RegAndAuth\obj\Debug\Registration.g.cs
+C:\Users\ПК\Desktop\RegAndAuth\RegAndAuth\obj\Debug\App.g.cs
+C:\Users\ПК\Desktop\RegAndAuth\RegAndAuth\obj\Debug\RegAndAuth_Content.g.cs
+C:\Users\ПК\Desktop\RegAndAuth\RegAndAuth\obj\Debug\RegAndAuth_MarkupCompile.cache
+C:\Users\ПК\Desktop\RegAndAuth\RegAndAuth\obj\Debug\RegAndAuth_MarkupCompile.lref
+C:\Users\ПК\Desktop\RegAndAuth\RegAndAuth\obj\Debug\MainWindow.baml
+C:\Users\ПК\Desktop\RegAndAuth\RegAndAuth\obj\Debug\PersonalArea.baml
+C:\Users\ПК\Desktop\RegAndAuth\RegAndAuth\obj\Debug\Registration.baml
+C:\Users\ПК\Desktop\RegAndAuth\RegAndAuth\obj\Debug\RegAndAuth.g.resources
+C:\Users\ПК\Desktop\RegAndAuth\RegAndAuth\obj\Debug\RegAndAuth.Properties.Resources.resources
+C:\Users\ПК\Desktop\RegAndAuth\RegAndAuth\obj\Debug\RegAndAuth.csproj.GenerateResource.cache
+C:\Users\ПК\Desktop\RegAndAuth\RegAndAuth\obj\Debug\RegAndAuth.csproj.CoreCompileInputs.cache
+C:\Users\ПК\Desktop\RegAndAuth\RegAndAuth\obj\Debug\RegAndAuth.csproj.CopyComplete
+C:\Users\ПК\Desktop\RegAndAuth\RegAndAuth\obj\Debug\RegAndAuth.exe
+C:\Users\ПК\Desktop\RegAndAuth\RegAndAuth\obj\Debug\RegAndAuth.pdb
+G:\RegAndAuth v.0.2\RegAndAuth\bin\Debug\RegAndAuth.exe.config
+G:\RegAndAuth v.0.2\RegAndAuth\bin\Debug\RegAndAuth.exe
+G:\RegAndAuth v.0.2\RegAndAuth\bin\Debug\RegAndAuth.pdb
+G:\RegAndAuth v.0.2\RegAndAuth\bin\Debug\EntityFramework.dll
+G:\RegAndAuth v.0.2\RegAndAuth\bin\Debug\EntityFramework.SqlServer.dll
+G:\RegAndAuth v.0.2\RegAndAuth\bin\Debug\EntityFramework.xml
+G:\RegAndAuth v.0.2\RegAndAuth\bin\Debug\EntityFramework.SqlServer.xml
+G:\RegAndAuth v.0.2\RegAndAuth\bin\Debug\ru\EntityFramework.resources.dll
+G:\RegAndAuth v.0.2\RegAndAuth\obj\Debug\RegAndAuth.csproj.AssemblyReference.cache
+G:\RegAndAuth v.0.2\RegAndAuth\obj\Debug\MainWindow.g.cs
+G:\RegAndAuth v.0.2\RegAndAuth\obj\Debug\Registration.g.cs
+G:\RegAndAuth v.0.2\RegAndAuth\obj\Debug\App.g.cs
+G:\RegAndAuth v.0.2\RegAndAuth\obj\Debug\RegAndAuth_Content.g.cs
+G:\RegAndAuth v.0.2\RegAndAuth\obj\Debug\RegAndAuth_MarkupCompile.cache
+G:\RegAndAuth v.0.2\RegAndAuth\obj\Debug\RegAndAuth_MarkupCompile.lref
+G:\RegAndAuth v.0.2\RegAndAuth\obj\Debug\MainWindow.baml
+G:\RegAndAuth v.0.2\RegAndAuth\obj\Debug\Registration.baml
+G:\RegAndAuth v.0.2\RegAndAuth\obj\Debug\RegAndAuth.g.resources
+G:\RegAndAuth v.0.2\RegAndAuth\obj\Debug\RegAndAuth.Properties.Resources.resources
+G:\RegAndAuth v.0.2\RegAndAuth\obj\Debug\RegAndAuth.csproj.GenerateResource.cache
+G:\RegAndAuth v.0.2\RegAndAuth\obj\Debug\RegAndAuth.csproj.CoreCompileInputs.cache
+G:\RegAndAuth v.0.2\RegAndAuth\obj\Debug\RegAndAuth.csproj.CopyComplete
+G:\RegAndAuth v.0.2\RegAndAuth\obj\Debug\RegAndAuth.exe
+G:\RegAndAuth v.0.2\RegAndAuth\obj\Debug\RegAndAuth.pdb
+C:\Users\ClassUser\Desktop\RegAndAuth v.0.2\RegAndAuth\bin\Debug\RegAndAuth.exe.config
+C:\Users\ClassUser\Desktop\RegAndAuth v.0.2\RegAndAuth\bin\Debug\RegAndAuth.exe
+C:\Users\ClassUser\Desktop\RegAndAuth v.0.2\RegAndAuth\bin\Debug\RegAndAuth.pdb
+C:\Users\ClassUser\Desktop\RegAndAuth v.0.2\RegAndAuth\bin\Debug\EntityFramework.dll
+C:\Users\ClassUser\Desktop\RegAndAuth v.0.2\RegAndAuth\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ClassUser\Desktop\RegAndAuth v.0.2\RegAndAuth\bin\Debug\EntityFramework.xml
+C:\Users\ClassUser\Desktop\RegAndAuth v.0.2\RegAndAuth\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ClassUser\Desktop\RegAndAuth v.0.2\RegAndAuth\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\ClassUser\Desktop\RegAndAuth v.0.2\RegAndAuth\obj\Debug\RegAndAuth.csproj.AssemblyReference.cache
+C:\Users\ClassUser\Desktop\RegAndAuth v.0.2\RegAndAuth\obj\Debug\MainWindow.g.cs
+C:\Users\ClassUser\Desktop\RegAndAuth v.0.2\RegAndAuth\obj\Debug\Registration.g.cs
+C:\Users\ClassUser\Desktop\RegAndAuth v.0.2\RegAndAuth\obj\Debug\App.g.cs
+C:\Users\ClassUser\Desktop\RegAndAuth v.0.2\RegAndAuth\obj\Debug\RegAndAuth_Content.g.cs
+C:\Users\ClassUser\Desktop\RegAndAuth v.0.2\RegAndAuth\obj\Debug\RegAndAuth_MarkupCompile.cache
+C:\Users\ClassUser\Desktop\RegAndAuth v.0.2\RegAndAuth\obj\Debug\RegAndAuth_MarkupCompile.lref
+C:\Users\ClassUser\Desktop\RegAndAuth v.0.2\RegAndAuth\obj\Debug\MainWindow.baml
+C:\Users\ClassUser\Desktop\RegAndAuth v.0.2\RegAndAuth\obj\Debug\Registration.baml
+C:\Users\ClassUser\Desktop\RegAndAuth v.0.2\RegAndAuth\obj\Debug\RegAndAuth.g.resources
+C:\Users\ClassUser\Desktop\RegAndAuth v.0.2\RegAndAuth\obj\Debug\RegAndAuth.Properties.Resources.resources
+C:\Users\ClassUser\Desktop\RegAndAuth v.0.2\RegAndAuth\obj\Debug\RegAndAuth.csproj.GenerateResource.cache
+C:\Users\ClassUser\Desktop\RegAndAuth v.0.2\RegAndAuth\obj\Debug\RegAndAuth.csproj.CoreCompileInputs.cache
+C:\Users\ClassUser\Desktop\RegAndAuth v.0.2\RegAndAuth\obj\Debug\RegAndAuth.csproj.CopyComplete
+C:\Users\ClassUser\Desktop\RegAndAuth v.0.2\RegAndAuth\obj\Debug\RegAndAuth.exe
+C:\Users\ClassUser\Desktop\RegAndAuth v.0.2\RegAndAuth\obj\Debug\RegAndAuth.pdb
+C:\Users\ClassUser\Desktop\RegAndAuth v.0.2\RegAndAuth\bin\Debug\WebDriver.dll
+C:\Users\ClassUser\Desktop\RegAndAuth v.0.2\RegAndAuth\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\ClassUser\Desktop\RegAndAuth v.0.2\RegAndAuth\obj\Debug\adminWindow.g.cs
+C:\Users\ClassUser\Desktop\RegAndAuth v.0.2\RegAndAuth\obj\Debug\userWindow.g.cs
+C:\Users\ClassUser\Desktop\RegAndAuth v.0.2\RegAndAuth\obj\Debug\adminWindow.baml
+C:\Users\ClassUser\Desktop\RegAndAuth v.0.2\RegAndAuth\obj\Debug\userWindow.baml
+C:\Users\ClassUser\Desktop\RegAndAuth v.0.2\RegAndAuth\obj\Debug\moderatorWindow.g.cs
+C:\Users\ClassUser\Desktop\RegAndAuth v.0.2\RegAndAuth\obj\Debug\moderatorWindow.baml
+G:\RegAndAuth v.0.2\RegAndAuth\bin\Debug\WebDriver.dll
+G:\RegAndAuth v.0.2\RegAndAuth\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+G:\RegAndAuth v.0.2\RegAndAuth\obj\Debug\adminWindow.g.cs
+G:\RegAndAuth v.0.2\RegAndAuth\obj\Debug\moderatorWindow.g.cs
+G:\RegAndAuth v.0.2\RegAndAuth\obj\Debug\userWindow.g.cs
+G:\RegAndAuth v.0.2\RegAndAuth\obj\Debug\adminWindow.baml
+G:\RegAndAuth v.0.2\RegAndAuth\obj\Debug\moderatorWindow.baml
+G:\RegAndAuth v.0.2\RegAndAuth\obj\Debug\userWindow.baml
+E:\RegAndAuth v.0.2\RegAndAuth\bin\Debug\RegAndAuth.exe.config
+E:\RegAndAuth v.0.2\RegAndAuth\bin\Debug\RegAndAuth.exe
+E:\RegAndAuth v.0.2\RegAndAuth\bin\Debug\RegAndAuth.pdb
+E:\RegAndAuth v.0.2\RegAndAuth\bin\Debug\EntityFramework.dll
+E:\RegAndAuth v.0.2\RegAndAuth\bin\Debug\EntityFramework.SqlServer.dll
+E:\RegAndAuth v.0.2\RegAndAuth\bin\Debug\WebDriver.dll
+E:\RegAndAuth v.0.2\RegAndAuth\bin\Debug\EntityFramework.xml
+E:\RegAndAuth v.0.2\RegAndAuth\bin\Debug\EntityFramework.SqlServer.xml
+E:\RegAndAuth v.0.2\RegAndAuth\bin\Debug\ru\EntityFramework.resources.dll
+E:\RegAndAuth v.0.2\RegAndAuth\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+E:\RegAndAuth v.0.2\RegAndAuth\obj\Debug\RegAndAuth.csproj.AssemblyReference.cache
+E:\RegAndAuth v.0.2\RegAndAuth\obj\Debug\adminWindow.g.cs
+E:\RegAndAuth v.0.2\RegAndAuth\obj\Debug\MainWindow.g.cs
+E:\RegAndAuth v.0.2\RegAndAuth\obj\Debug\moderatorWindow.g.cs
+E:\RegAndAuth v.0.2\RegAndAuth\obj\Debug\Registration.g.cs
+E:\RegAndAuth v.0.2\RegAndAuth\obj\Debug\userWindow.g.cs
+E:\RegAndAuth v.0.2\RegAndAuth\obj\Debug\App.g.cs
+E:\RegAndAuth v.0.2\RegAndAuth\obj\Debug\RegAndAuth_Content.g.cs
+E:\RegAndAuth v.0.2\RegAndAuth\obj\Debug\RegAndAuth_MarkupCompile.cache
+E:\RegAndAuth v.0.2\RegAndAuth\obj\Debug\RegAndAuth_MarkupCompile.lref
+E:\RegAndAuth v.0.2\RegAndAuth\obj\Debug\adminWindow.baml
+E:\RegAndAuth v.0.2\RegAndAuth\obj\Debug\MainWindow.baml
+E:\RegAndAuth v.0.2\RegAndAuth\obj\Debug\moderatorWindow.baml
+E:\RegAndAuth v.0.2\RegAndAuth\obj\Debug\Registration.baml
+E:\RegAndAuth v.0.2\RegAndAuth\obj\Debug\userWindow.baml
+E:\RegAndAuth v.0.2\RegAndAuth\obj\Debug\RegAndAuth.g.resources
+E:\RegAndAuth v.0.2\RegAndAuth\obj\Debug\RegAndAuth.Properties.Resources.resources
+E:\RegAndAuth v.0.2\RegAndAuth\obj\Debug\RegAndAuth.csproj.GenerateResource.cache
+E:\RegAndAuth v.0.2\RegAndAuth\obj\Debug\RegAndAuth.csproj.CoreCompileInputs.cache
+E:\RegAndAuth v.0.2\RegAndAuth\obj\Debug\RegAndAuth.csproj.CopyComplete
+E:\RegAndAuth v.0.2\RegAndAuth\obj\Debug\RegAndAuth.exe
+E:\RegAndAuth v.0.2\RegAndAuth\obj\Debug\RegAndAuth.pdb
+C:\Users\ClassUser\Desktop\Новая папка (2)\RegAuthWPF\RegAndAuth\bin\Debug\RegAndAuth.exe.config
+C:\Users\ClassUser\Desktop\Новая папка (2)\RegAuthWPF\RegAndAuth\bin\Debug\RegAndAuth.exe
+C:\Users\ClassUser\Desktop\Новая папка (2)\RegAuthWPF\RegAndAuth\bin\Debug\RegAndAuth.pdb
+C:\Users\ClassUser\Desktop\Новая папка (2)\RegAuthWPF\RegAndAuth\bin\Debug\EntityFramework.dll
+C:\Users\ClassUser\Desktop\Новая папка (2)\RegAuthWPF\RegAndAuth\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ClassUser\Desktop\Новая папка (2)\RegAuthWPF\RegAndAuth\bin\Debug\WebDriver.dll
+C:\Users\ClassUser\Desktop\Новая папка (2)\RegAuthWPF\RegAndAuth\bin\Debug\EntityFramework.xml
+C:\Users\ClassUser\Desktop\Новая папка (2)\RegAuthWPF\RegAndAuth\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ClassUser\Desktop\Новая папка (2)\RegAuthWPF\RegAndAuth\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\ClassUser\Desktop\Новая папка (2)\RegAuthWPF\RegAndAuth\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\ClassUser\Desktop\Новая папка (2)\RegAuthWPF\RegAndAuth\obj\Debug\RegAndAuth.csproj.AssemblyReference.cache
+C:\Users\ClassUser\Desktop\Новая папка (2)\RegAuthWPF\RegAndAuth\obj\Debug\adminWindow.g.cs
+C:\Users\ClassUser\Desktop\Новая папка (2)\RegAuthWPF\RegAndAuth\obj\Debug\MainWindow.g.cs
+C:\Users\ClassUser\Desktop\Новая папка (2)\RegAuthWPF\RegAndAuth\obj\Debug\moderatorWindow.g.cs
+C:\Users\ClassUser\Desktop\Новая папка (2)\RegAuthWPF\RegAndAuth\obj\Debug\Registration.g.cs
+C:\Users\ClassUser\Desktop\Новая папка (2)\RegAuthWPF\RegAndAuth\obj\Debug\userWindow.g.cs
+C:\Users\ClassUser\Desktop\Новая папка (2)\RegAuthWPF\RegAndAuth\obj\Debug\App.g.cs
+C:\Users\ClassUser\Desktop\Новая папка (2)\RegAuthWPF\RegAndAuth\obj\Debug\RegAndAuth_Content.g.cs
+C:\Users\ClassUser\Desktop\Новая папка (2)\RegAuthWPF\RegAndAuth\obj\Debug\RegAndAuth_MarkupCompile.cache
+C:\Users\ClassUser\Desktop\Новая папка (2)\RegAuthWPF\RegAndAuth\obj\Debug\RegAndAuth_MarkupCompile.lref
+C:\Users\ClassUser\Desktop\Новая папка (2)\RegAuthWPF\RegAndAuth\obj\Debug\adminWindow.baml
+C:\Users\ClassUser\Desktop\Новая папка (2)\RegAuthWPF\RegAndAuth\obj\Debug\MainWindow.baml
+C:\Users\ClassUser\Desktop\Новая папка (2)\RegAuthWPF\RegAndAuth\obj\Debug\moderatorWindow.baml
+C:\Users\ClassUser\Desktop\Новая папка (2)\RegAuthWPF\RegAndAuth\obj\Debug\Registration.baml
+C:\Users\ClassUser\Desktop\Новая папка (2)\RegAuthWPF\RegAndAuth\obj\Debug\userWindow.baml
+C:\Users\ClassUser\Desktop\Новая папка (2)\RegAuthWPF\RegAndAuth\obj\Debug\RegAndAuth.g.resources
+C:\Users\ClassUser\Desktop\Новая папка (2)\RegAuthWPF\RegAndAuth\obj\Debug\RegAndAuth.Properties.Resources.resources
+C:\Users\ClassUser\Desktop\Новая папка (2)\RegAuthWPF\RegAndAuth\obj\Debug\RegAndAuth.csproj.GenerateResource.cache
+C:\Users\ClassUser\Desktop\Новая папка (2)\RegAuthWPF\RegAndAuth\obj\Debug\RegAndAuth.csproj.CoreCompileInputs.cache
+C:\Users\ClassUser\Desktop\Новая папка (2)\RegAuthWPF\RegAndAuth\obj\Debug\RegAndAuth.csproj.CopyComplete
+C:\Users\ClassUser\Desktop\Новая папка (2)\RegAuthWPF\RegAndAuth\obj\Debug\RegAndAuth.exe
+C:\Users\ClassUser\Desktop\Новая папка (2)\RegAuthWPF\RegAndAuth\obj\Debug\RegAndAuth.pdb
+C:\Users\PC\Desktop\RegAuthWPF-main\RegAndAuth\bin\Debug\RegAndAuth.exe.config
+C:\Users\PC\Desktop\RegAuthWPF-main\RegAndAuth\bin\Debug\RegAndAuth.exe
+C:\Users\PC\Desktop\RegAuthWPF-main\RegAndAuth\bin\Debug\RegAndAuth.pdb
+C:\Users\PC\Desktop\RegAuthWPF-main\RegAndAuth\bin\Debug\EntityFramework.dll
+C:\Users\PC\Desktop\RegAuthWPF-main\RegAndAuth\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\PC\Desktop\RegAuthWPF-main\RegAndAuth\bin\Debug\WebDriver.dll
+C:\Users\PC\Desktop\RegAuthWPF-main\RegAndAuth\bin\Debug\EntityFramework.xml
+C:\Users\PC\Desktop\RegAuthWPF-main\RegAndAuth\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\PC\Desktop\RegAuthWPF-main\RegAndAuth\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\PC\Desktop\RegAuthWPF-main\RegAndAuth\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\PC\Desktop\RegAuthWPF-main\RegAndAuth\obj\Debug\RegAndAuth.csprojAssemblyReference.cache
+C:\Users\PC\Desktop\RegAuthWPF-main\RegAndAuth\obj\Debug\adminWindow.g.cs
+C:\Users\PC\Desktop\RegAuthWPF-main\RegAndAuth\obj\Debug\DirectorWindow.g.cs
+C:\Users\PC\Desktop\RegAuthWPF-main\RegAndAuth\obj\Debug\MainWindow.g.cs
+C:\Users\PC\Desktop\RegAuthWPF-main\RegAndAuth\obj\Debug\moderatorWindow.g.cs
+C:\Users\PC\Desktop\RegAuthWPF-main\RegAndAuth\obj\Debug\Registration.g.cs
+C:\Users\PC\Desktop\RegAuthWPF-main\RegAndAuth\obj\Debug\userWindow.g.cs
+C:\Users\PC\Desktop\RegAuthWPF-main\RegAndAuth\obj\Debug\App.g.cs
+C:\Users\PC\Desktop\RegAuthWPF-main\RegAndAuth\obj\Debug\RegAndAuth_Content.g.cs
+C:\Users\PC\Desktop\RegAuthWPF-main\RegAndAuth\obj\Debug\RegAndAuth_MarkupCompile.cache
+C:\Users\PC\Desktop\RegAuthWPF-main\RegAndAuth\obj\Debug\RegAndAuth_MarkupCompile.lref
+C:\Users\PC\Desktop\RegAuthWPF-main\RegAndAuth\obj\Debug\adminWindow.baml
+C:\Users\PC\Desktop\RegAuthWPF-main\RegAndAuth\obj\Debug\MainWindow.baml
+C:\Users\PC\Desktop\RegAuthWPF-main\RegAndAuth\obj\Debug\moderatorWindow.baml
+C:\Users\PC\Desktop\RegAuthWPF-main\RegAndAuth\obj\Debug\Registration.baml
+C:\Users\PC\Desktop\RegAuthWPF-main\RegAndAuth\obj\Debug\userWindow.baml
+C:\Users\PC\Desktop\RegAuthWPF-main\RegAndAuth\obj\Debug\DirectorWindow.baml
+C:\Users\PC\Desktop\RegAuthWPF-main\RegAndAuth\obj\Debug\RegAndAuth.g.resources
+C:\Users\PC\Desktop\RegAuthWPF-main\RegAndAuth\obj\Debug\RegAndAuth.Properties.Resources.resources
+C:\Users\PC\Desktop\RegAuthWPF-main\RegAndAuth\obj\Debug\RegAndAuth.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\RegAuthWPF-main\RegAndAuth\obj\Debug\RegAndAuth.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\RegAuthWPF-main\RegAndAuth\obj\Debug\RegAndAuth.csproj.CopyComplete
+C:\Users\PC\Desktop\RegAuthWPF-main\RegAndAuth\obj\Debug\RegAndAuth.exe
+C:\Users\PC\Desktop\RegAuthWPF-main\RegAndAuth\obj\Debug\RegAndAuth.pdb
+C:\Users\PC\Desktop\RegAuthWPF-main\RegAndAuth\obj\Debug\managerWindow.g.cs
+C:\Users\PC\Desktop\RegAuthWPF-main\RegAndAuth\obj\Debug\managerWindow.baml
+C:\Users\PC\Desktop\RegAuthWPF-main\RegAndAuth\obj\Debug\addUserPage.g.cs
+C:\Users\PC\Desktop\RegAuthWPF-main\RegAndAuth\obj\Debug\addUserPage.baml
+C:\Users\PC\Desktop\RegAuthWPF-main\RegAndAuth\obj\Debug\ProductList.g.cs
+C:\Users\PC\Desktop\RegAuthWPF-main\RegAndAuth\obj\Debug\ProductList.baml

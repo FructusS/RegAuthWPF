@@ -1,0 +1,68 @@
+log
+Fructus_SQLLogin_1
+
+pas
+acrcinl5nk
+
+  create table UserRole
+(
+	ID int identity(1,1) primary key not null,
+	Role varchar(50) not null,
+	Description varchar(100)
+)
+
+
+create table Users
+(
+	ID int identity(1,1) primary key not null,
+	Login varchar(50) not null,
+	Password Varchar(50) not null,
+	RoleID int foreign key REFERENCES UserRole(ID) default 2
+)
+
+
+public void UserRole()
+        {
+            string loginText = Global.loginTextUser;
+            var query = from user in dataEntities.Users
+                        join userrole in dataEntities.UserRole on user.RoleID equals userrole.ID
+                        select new { 
+                            name = user.RoleID ,
+                            login = user.Login,
+                            pas = user.Password
+                        };
+
+            foreach (var item in query)
+                Console.WriteLine($"{item.name} - {item.login} ({item.pas})");
+        }
+
+
+
+
+
+
+
+select Login,Password,UserRole.Role
+from Users
+join  UserRole on UserRole.ID = Users.ROleID
+
+
+
+
+
+https://forum.orkons.ru/topic/362-c-kak-sdelat-parser-v-visual-studio/
+
+https://www.selenium.dev/documentation/webdriver/web_element/
+
+
+ TextBox [] tb = new TextBox[20];
+ 
+            for (int i = 0; i < tb.Length; i++)
+            {
+                tb[i] = new TextBox();
+                //бла-бла-бла
+                Controls.Add(tb[i]);
+            }
+
+
+https://ru.stackoverflow.com/questions/1001312/%D0%94%D0%B8%D0%BD%D0%B0%D0%BC%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B5-%D1%81%D0%BE%D0%B7%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5-textbox-%D0%B8-checkbox-%D0%B2-grid
